@@ -1,8 +1,10 @@
 
 ### E aí! Me chamo Henrique Lima
 
-- 🔭 Desenvolvedor Júnior Front End
-- 🌱 Estudando React
+- 🔭 Desenvolvedor Júnior .NET
+- 🌱 Estudando Angular e React 
+
+<hr/>
 
 <div>
   <a href="https://github.com/henriquelima0">
@@ -18,8 +20,6 @@
   <img align="center" alt="well-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="well-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="well-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-
-  
 
 
 </div>
