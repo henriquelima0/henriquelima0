@@ -1,6 +1,6 @@
 ### E ai! Me chamo Henrique Lima 😀
 
-## Estudante .NET C# 
+## Estudante Back-end 
 
 ### Contato
 
