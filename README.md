@@ -1,6 +1,6 @@
-### E ai! Me chamo Henrique Lima 😀
+### E ai! Me chamo Francisco Lima 😀
 
-## Estudante Back-end 
+## Desenvolvedor Back End | IA 
 
 ### Contato
 
